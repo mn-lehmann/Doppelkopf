@@ -62,60 +62,7 @@ UPDATE Normalspiel SET
 WHERE
     Nor_gew_2 < Nor_gew_1;
 
---
-Allgemeine Regeln:
-(falls vorhanden) erste Dulle sticht immer die zweite
-nächster Stich erst anspielen, wenn der davor aufgenommen wurde
-fasch bedient: solange keine weitere Karte gelegt (falls letzte Person bedient, Stich aufgenommen), darf zurückgenommen werden. Anderenfalls: Solo verloren mit 4 Punkten Wertigkeit
-außerhalb von falsch bedient: gelegt ist gelegt
-gelegt wenn nicht dran: fällt unter falsch bedient
-alles Sportsmanship - seid keine Pisser!
 
-gelegt: sobald für alle anderen sichtbar ist
-Die Karten sprechen für sich (keine Taktikkommunikation) best case ;) - bullshitting ist ok
-Kontra-Ansage ändert Mindestpunktanzahl zum Gewinnen auf 121 für Kontra; nicht durch Gegenansage beeinflusst
-ansonsten gewinnt Kontra bei Gleichstand
-
-Vorbehalte in aufsteigender Reihenfolge: Schmeißen (nur bei 5+ Neunen; falls Eduard mitspielt - auch bei Geberrunden - muss er muss mischen, sonst die schmeißende Person), Hochzeit, Armut (3- Trupf),  Solo
-
-Solo in Vorhandreihenfolge
-Solo: Damen, Buben, Fleischlos, Trumpf, Farbe
-Solo kommt immer raus
-Bei Solo wird nochmal von gleicher Person gemsicht - selbe Farbe
-
-
-Armut: Fragen in Vorhandreihenfolge, keine Sonderpunkte, nur Trumpf wird weitergegeben, Ansage wie viele Trumpf zurück
-- heute testen - Ramschen bei alle lehnen ab - Person mizt meisten Punkten verliert - wie viel verlieren (2 Punkte Solo?) - tirbreaker: letzter Stich
-- heute testen - Sonderpnkte bei Armut
-- heute Schweinchen - immer
-
-Hochzeit: erster Fremder innerhab von drei Stichen, ansonsten Solo
-- bei solohochzeit gibt es Sonderpunkte
-
-
-Bei allen Soli (außer Hochtzeitssolo) gibt es keine Sonderpunkte
-
-bei Farbsolo wird karo ausgetauscht (bei Herzsolo bleibt 10 die Dulle)
-- heute testen - bei Fabsolo gibt es keine Schweine 
-- heute testen - beim Trumpsolo gibt es Schweine (aber kein Fuchs da keine Sonderpunkte)
-
-
-Sonderpunkte: Karl holt den letzten Stich, Doppelkopf, Fuchs gefangen, gegen die Alten
-
-Schwein bei doppeltem Fuchs, nach Vorbehalt ansagen, so früh wie möglich (bestenfalls vor der esten generell gespielten Karte), falls erste eigene Karte gespielt wurde sind beides Füchse. Falls absichtlich gewartet Tischrunde (für alle die spielen)
-
-An-/Absageregeln:
-Normalspiel/Solo/Armut - Ansagen vor Ausspiel der zweiten Karte (11 Karten auf der Hand); jede weitere Absage +1 Karte Zeit (U9 mit 10 Karten auf der Hand, U6 mit 9, U3 mit 8, Schwarz (alle Stiche) mit 7; Gegenansage verschiebt ebenfalls um +1)
-Hochzeit - Ansagen vor Ausspiel der ersten Karte nach dem Findungsstich; bei abgelehnter Hochzeit vor Ausspiel der vierten Karte (9 Karten auf der Hand); jede weitere Absage (Verschiebung analog Normalspiel)
-Gegenansage möglich, solange die Gegnerpartei in der gleichen Runde noch absagen könnte/konnte
-
-
-
-mit eintragen in die Liste akzeptieren Sie die allgemeinen Geschäftsbedingungen und Regeln dieser Liste
-
-
-
---
 
 
 -- Einfügen von Personen
